@@ -1,3 +1,5 @@
 # hello-world
 Hello world is a repository for git tutorial
-this is an example for git tutorial on w3school
+This is an example for git tutorial on https://w3schools.com
+This repository is build step by step in the tutorial
+It now includes steps for Github 
